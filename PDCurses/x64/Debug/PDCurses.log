@@ -1,0 +1,68 @@
+﻿  addch.c
+  addchstr.c
+  addstr.c
+  attr.c
+  beep.c
+  bkgd.c
+  border.c
+  clear.c
+  color.c
+  debug.c
+  delch.c
+  deleteln.c
+  getch.c
+C:\C++\test_PDCurses\PDCurses\getch.c(188,23): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\C++\test_PDCurses\PDCurses\getch.c(216,23): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  getstr.c
+C:\C++\test_PDCurses\PDCurses\getstr.c(82,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  getyx.c
+  inch.c
+  inchstr.c
+  initscr.c
+  inopts.c
+  insch.c
+  Generating Code...
+  Compiling...
+  insstr.c
+C:\C++\test_PDCurses\PDCurses\insstr.c(83,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  instr.c
+C:\C++\test_PDCurses\PDCurses\instr.c(76,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  kernel.c
+  keyname.c
+  mouse.c
+  move.c
+  outopts.c
+  overlay.c
+  pad.c
+  panel.c
+  pdcclip.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+C:\C++\test_PDCurses\PDCurses\pdcclip.c(73,37): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\C++\test_PDCurses\PDCurses\pdcclip.c(86,23): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  pdcdisp.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+C:\C++\test_PDCurses\PDCurses\pdcdisp.c(132,47): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+  pdcgetsc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  pdckbd.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  pdcscrn.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  pdcsetsc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  pdcutil.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  printw.c
+  refresh.c
+  scanw.c
+  Generating Code...
+  Compiling...
+  scroll.c
+  scr_dump.c
+  slk.c
+  termattr.c
+  touch.c
+  util.c
+  window.c
+  Generating Code...
+  PDCurses.vcxproj -> C:\C++\test_PDCurses\PDCurses\x64\Debug\PDCurses.lib

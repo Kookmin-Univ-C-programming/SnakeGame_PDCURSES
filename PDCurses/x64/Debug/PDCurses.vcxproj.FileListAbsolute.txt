@@ -1,0 +1,1 @@
+C:\C++\test_PDCurses\PDCurses\x64\Debug\PDCurses.lib
